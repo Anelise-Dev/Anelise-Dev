@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Anelise-Dev
-- 👀 I’m deeply interested in acquiring extensive knowledge in Data Science and exploring various programming languages.
-- 🌱 I’m currently learning Python.
-- 💞️ Initially, I'm looking to collaborate on Python projects to practice and solidify my learning. I am currently at a beginner level.
-- 📫 How to reach me: wsbt.dev.projects@gmail.com
-- 😄 Pronouns: She/Her
+👋 Hi, I’m @Anelise-Dev
+👀 I’m passionate about RPA in Python and exploring the exciting world of Artificial Intelligence.
+🌱 Currently diving into RPA techniques and enhancing my Python skills.
+💞️ Looking to collaborate on RPA and AI projects to gain practical experience and deepen my understanding.
+📫 How to reach me: wsbt.dev.projects@gmail.com
+😄 Pronouns: She/Her
 
 <!---
 Anelise-Dev/Anelise-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
