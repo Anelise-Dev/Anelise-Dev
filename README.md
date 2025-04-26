@@ -1,14 +1,16 @@
 👋 Hi, I’m @Anelise-Dev
 
-💞️ I’m passionate about RPA in Python and exploring the exciting world of Artificial Intelligence.
+💻 I’m passionate about backend development with Python and currently exploring the Django framework.
 
-🌱 Currently diving into RPA techniques and enhancing my Python skills.
+🌱 Learning every day to improve my skills in web development, clean code, and best practices.
 
-👀 Looking to collaborate on RPA and AI projects to gain practical experience and deepen my understanding.
+🚀 I'm interested in collaborating on open-source projects, especially those related to Python and web development.
 
-📫 How to reach me: wsbt.dev.projects@gmail.com
+📫 Feel free to reach out: wsbt.dev.projects@gmail.com
 
-😄 Pronouns: She/Her
+🔗 Connect with me on LinkedIn
+
+
 
 <!---
 Anelise-Dev/Anelise-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
